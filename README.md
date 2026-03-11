@@ -12,8 +12,6 @@ This portfolio is designed to demonstrate skills in:
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
-
 ### Project Title One
 Heart Disease Prediction Using ML
 
